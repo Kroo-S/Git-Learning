@@ -1,5 +1,6 @@
 # VsCode
 
+<br>
 http和ssh两种方式git提交：
 
 https://blog.csdn.net/Bin_niB/article/details/135915738?ops_request_misc=&request_id=&biz_id=102&utm_term=vscode%E4%B8%8Agithub%E5%B8%90%E5%8F%B7%E9%85%8D%E7%BD%AE&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-135915738.142^v100^pc_search_result_base7&spm=1018.2226.3001.4187
@@ -13,6 +14,7 @@ https://blog.csdn.net/Bin_niB/article/details/135915738?ops_request_misc=&reques
 2. git config user.password "<your_token>"
 
 
+<br><br><br>
 
 
 
@@ -59,9 +61,9 @@ https://blog.csdn.net/Bin_niB/article/details/135915738?ops_request_misc=&reques
     10. git remote -v 		查看远程仓库链接地址
     		git remote set-url origin 地址		修改关联的远程仓库origin的地址
     		
-
+<br>
 =======================================================
-
+<br><br><br>
 
 # 二、git提交代码
 
@@ -105,9 +107,9 @@ https://blog.csdn.net/Bin_niB/article/details/135915738?ops_request_misc=&reques
     	 git push origin main
     
     
-
+<br>
 =======================================================
-
+<br><br><br>
 
 
 # 三、Token http提交方式
@@ -118,9 +120,7 @@ https://blog.csdn.net/Bin_niB/article/details/135915738?ops_request_misc=&reques
 
 ​	**· **点击 **Generate new token**，选择适当的权限（例如 repo）。
 
-<img src="/Users/macbook/Library/Application Support/typora-user-images/image-20241113165257979.png" alt="image-20241113165257979" style="zoom: 33%;" />
-
-
+<img src="https://github.com/user-attachments/assets/c05453f8-4b0c-4a41-b8bd-91baba4dd325" alt="image-20241113165257979" width=30% />
 
 
 
@@ -138,16 +138,15 @@ https://blog.csdn.net/Bin_niB/article/details/135915738?ops_request_misc=&reques
 
 
 3. 输入密码为电脑开机密码
-
-<img src="https://i-blog.csdnimg.cn/direct/59fac1f7092e4da08086021aa3d74a6d.png" alt="在这里插入图片描述" style="zoom:50%;" />
-
+<img width="429" alt="59fac1f7092e4da08086021aa3d74a6d" src="https://github.com/user-attachments/assets/a5c1097e-8643-4ea6-8c58-8d5ba4bb6d9c">
 
 
 
 
-
-
+<br>
 =======================================================
+<br><br><br>
+
 
 # 四、SSH提交方式
 
@@ -159,9 +158,13 @@ https://blog.csdn.net/Bin_niB/article/details/135915738?ops_request_misc=&reques
 
 4. ssh-keygen -t rsa -C “email@email.com"     本地生产密钥对
 
-   <img src="/Users/macbook/Library/Application Support/typora-user-images/image-20241113165030754.png" alt="image-20241113165030754" style="zoom:50%;" />
+<img width="464" alt="image-20241113165030754" src="https://github.com/user-attachments/assets/7e2b9016-ceaf-4a71-a86b-50ae2669e8e7">
 
-5. github关联ssh<img src="/Users/macbook/Library/Application Support/typora-user-images/image-20241113165434348.png" alt="image-20241113165434348" style="zoom:33%;" />
+
+<br><br><br>
+
+5. github关联ssh   <img width="363" alt="image-20241113165434348" src="https://github.com/user-attachments/assets/d14f9326-7e65-42be-923b-1649d8b88c34">
+
 
 6. git remote add origin git@github.com:mmm-cong/test.git   关联ssh地址
 
@@ -170,8 +173,11 @@ https://blog.csdn.net/Bin_niB/article/details/135915738?ops_request_misc=&reques
 
 
 
-
+<br>
 =======================================================
+<br><br><br>
+
+
 
 # 五、VSCode相关问题
 
@@ -184,20 +190,21 @@ Q2:VSCode代码提交
 
 https://www.bilibili.com/video/BV1dK411p7RF/?spm_id_from=333.337.search-card.all.click&vd_source=6ffa2e348a638cae44b435eff005e657
 
+<br>
 =====================================================================
-
+<br><br><br>
 
 
 # 六、Github用户名更改
 
 https://blog.csdn.net/weixin_44285445/article/details/107833418?ops_request_misc=&request_id=&biz_id=102&utm_term=github%E7%94%A8%E6%88%B7%E5%90%8D%E6%9B%B4%E6%94%B9&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-0-107833418.142^v87^insert_down28,239^v2^insert_chatgpt&spm=1018.2226.3001.4187
 
-
+<br><br><br>
 ​    
 # 七、VSCode更新Github仓库代码
     1. git push -f    强制本地代码覆盖github
 
-
+<br><br><br>
 
 # 八、.gitignore
 
